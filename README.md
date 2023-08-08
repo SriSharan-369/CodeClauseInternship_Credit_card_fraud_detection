@@ -1,5 +1,7 @@
 # CodeClauseInternship_Credit_card_fraud_detection
 
+![ccd](https://github.com/SriSharan-369/CodeClauseInternship_Credit_card_fraud_detection/assets/101579725/76087344-c217-415b-bfbe-16ed432c0ee9)
+
 The project revolves around the development of an effective credit card fraud detection system using the Logistic Regression model. Credit card fraud poses a significant threat to financial institutions and users alike, necessitating advanced techniques for early detection and prevention.
 
 Employing a comprehensive dataset of credit card transactions, we will leverage Logistic Regression's ability to model binary outcomes. By analyzing transaction features, such as transaction amount, location, time, and user behavior patterns, our model will learn to differentiate between legitimate and fraudulent activities.
